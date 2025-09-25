@@ -95,4 +95,4 @@ To provide an **interactive sales analytics tool** that:
 
 **Ranjith K**  
 📧 Email: [ranjithkarthiga9999@gmail.com](mailto:ranjithkarthiga9999@gmail.com)  
-🔗 LinkedIn: [Your LinkedIn Profile]  
+
