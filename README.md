@@ -79,7 +79,7 @@ To provide an **interactive sales analytics tool** that:
 
 ## 📷 Dashboard Preview  
 
-![Super Store Sales Dashboard](screenshot.jpg)  
+![Super Store Sales Dashboard](Screenshot.jpg)  
 
 ---
 
